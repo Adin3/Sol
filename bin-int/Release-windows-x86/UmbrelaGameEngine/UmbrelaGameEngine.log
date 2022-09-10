@@ -1,0 +1,16 @@
+﻿  Bolt.cpp
+  Entity.cpp
+  EntityManager.cpp
+  Player.cpp
+  Rain.cpp
+  Sandbox.cpp
+  Spawner.cpp
+  Storm.cpp
+D:\Programare Cock++\OpenGL\2DUmbrelaEngine\UmbrelaGameEngine\game\Bolt.cpp(30,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Programare Cock++\OpenGL\2DUmbrelaEngine\UmbrelaGameEngine\game\Rain.cpp(25,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Programare Cock++\OpenGL\2DUmbrelaEngine\UmbrelaGameEngine\game\Rain.cpp(28,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Programare Cock++\OpenGL\2DUmbrelaEngine\UmbrelaGameEngine\game\Storm.cpp(27,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Programare Cock++\OpenGL\2DUmbrelaEngine\UmbrelaGameEngine\game\Storm.cpp(42,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Programare Cock++\OpenGL\2DUmbrelaEngine\UmbrelaGameEngine\game\EntityManager.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  UmbrelaGameEngine.vcxproj -> D:\Programare Cock++\OpenGL\2DUmbrelaEngine\bin\Release-windows-x86\UmbrelaGameEngine\UmbrelaGameEngine.exe
