@@ -8,6 +8,20 @@ Rhythm game made with opengl for the olcCodeJam2022
 
 Open `start.bat` to generate the solution
 
+# *Controls*
+
+-movement- <br />
+
+D - left <br />
+F - middle left <br />
+J - middle right <br />
+K - right <br />
+
+-action- <br />
+
+Enter - interact/continue <br />
+Space - God Mode (Invincibility)
+
 # *Screenshots*
 
 
